@@ -1,0 +1,50 @@
+[
+  {
+    "pregunta": "¿Qué diferencia existe entre una tarea I/O-bound y una CPU-bound?",
+    "documento_id_esperado": "clase_1.docx"
+  },
+  {
+    "pregunta": "¿Para qué sirve una Abstract Base Class en un cliente LLM?",
+    "documento_id_esperado": "clase_1.docx"
+  },
+  {
+    "pregunta": "¿Para qué sirve el streaming de tokens?",
+    "documento_id_esperado": "clase_1.docx"
+  },
+  {
+    "pregunta": "¿Qué es LCEL?",
+    "documento_id_esperado": "clase_2.docx"
+  },
+  {
+    "pregunta": "¿Qué es un Runnable en LangChain?",
+    "documento_id_esperado": "clase_2.docx"
+  },
+  {
+    "pregunta": "¿Para qué sirve with_structured_output()?",
+    "documento_id_esperado": "clase_2.docx"
+  },
+  {
+    "pregunta": "¿Qué diferencia existe entre un vector y un embedding?",
+    "documento_id_esperado": "clase_3.docx"
+  },
+  {
+    "pregunta": "¿Para qué sirve el overlap durante el chunking?",
+    "documento_id_esperado": "clase_3.docx"
+  },
+  {
+    "pregunta": "¿Qué es la similitud coseno?",
+    "documento_id_esperado": "clase_3.docx"
+  },
+  {
+    "pregunta": "¿Qué es un namespace en Pinecone?",
+    "documento_id_esperado": "clase_4.docx"
+  },
+  {
+    "pregunta": "¿Para qué sirve BM25 en una búsqueda híbrida?",
+    "documento_id_esperado": "clase_4.docx"
+  },
+  {
+    "pregunta": "¿Qué es Reciprocal Rank Fusion?",
+    "documento_id_esperado": "clase_4.docx"
+  }
+]
